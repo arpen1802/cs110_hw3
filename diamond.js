@@ -1,4 +1,3 @@
-
 const stars= function(a){
   let b="";
  for(i=0; i<a; i++){
@@ -14,7 +13,6 @@ const stars= function(a){
    };
    return b;
  };
-
 
 const diamond= function(n){
   if(n%2===0){
